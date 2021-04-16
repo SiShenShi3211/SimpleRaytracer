@@ -1,0 +1,26 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+
+#defaultCanvas0
+{
+  display: block;
+  position: absolute;
+  transform: translate(-50%, -50%);
+
+  left: 50vw;
+  top:50vh;
+}
+
+#ins
+{
+  position: absolute;
+  right: 10vw;
+  top: 20vh;
+
+}
